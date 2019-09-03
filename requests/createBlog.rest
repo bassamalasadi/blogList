@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs 
+Content-Type: application/json 
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5vbmluIiwiaWQiOiI1ZDZlOTk0NzA0YTgyNjNlMmM5YTRhMzIiLCJpYXQiOjE1Njc1MjkzMDh9.8w_rGN39J9Ox9SEz5fr7dQKEYguQNVcCB_Og3gHxzvs
+
+{
+"title": "second testing",
+ "author": "know I now",
+  "url": "none", 
+  "likes": 100
+}
